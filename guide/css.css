@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url(doctorBg.jpg) no-repeat;
+  background-size: cover;
+  background-color:#ece0cf;
+}
+
+h1{
+	background-color:#556b2f;
+	color:white;
+	font-size:30px;
+	font-family: Garamond, serif;
+}
+
+p{
+	color:#008080;
+	font-size:22px;
+	font-family: Garamond, serif;
+}
+h2{
+	font-family: Garamond, serif;
+	font-size:35px;
+	#background-color:white;
+}
+img{
+	width:428px;
+	height:267px;
+	border-radius:5px;
+}

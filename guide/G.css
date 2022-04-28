@@ -1,0 +1,48 @@
+body{
+	
+	background-color:#FA8072;
+}
+
+main{
+	margin-left:10px;
+}
+
+.box{
+	display: block;
+	float: left;
+	width:35%;
+	padding:10px;
+	padding-left:100px;
+    overflow:hidden;
+    border-radius:5px;	
+}
+img{
+	width:428px;
+	height:267px;
+	border-radius:5px;
+}
+img:hover{
+	transform:scale(2,2);
+	transition:.3s transform;
+}
+.r{
+	text-align:Center;
+	font-size:100;
+    font-family: 'Noto Serif', serif
+	
+}
+a{
+	 
+      /* visited link */
+      a:visited {
+        color: #095484;
+      }
+      /* mouse over link */
+      a:hover {
+        color: #8ebf42;
+      }
+      /* selected link */
+      a:active {
+        color:#800000;
+      }
+}
